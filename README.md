@@ -1,5 +1,6 @@
 # BinaryMonicPolynomial.js
-[Demo Site](https://nokinoki.github.io/BinaryMonicPolynomial.js/) 
+[Demo Site](https://nokinoki.github.io/BinaryMonicPolynomial.js/)   
+![DemoSite](https://nokinoki.github.io/BinaryMonicPolynomial.js/img.png "Demo Site Image")
 
 ##Tutorial  
 Import `BinaryMonicPolynomial.js` in your HTML.  
@@ -32,3 +33,6 @@ bmp.graphicShow();
 ##Lisence
 Copyright &copy; 2017 Haruta  
 Released under the MIT license  
+
+##Search  
+モニック 多項式 既約 ガロア体 二元体 有限体
