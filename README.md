@@ -18,16 +18,16 @@ var bmp = new BinaryMonicPolynomial(5);
 You can access "Binary monic polynomial" and "Irreducibler binary monic polynomial" array.
 
 ```javascript
-console.log(bmp.list);  //return Binary monic polynomial
+console.log(bmp.list);  //return Binary monic polynomials array
 console.log(bmp.irreducibler); 
-                        //return Irreducibler binary monic polynomial
+                        //return Irreducibler binary monic polynomials array
 ```
 
 And... it have method draw a html canvas. 
 
 ```javascript
 var cnv = document.getElementById("yourCanvasName");
-bmp.graphicShow();
+bmp.graphicShow(cnv);
 ```
 
 ##Lisence
